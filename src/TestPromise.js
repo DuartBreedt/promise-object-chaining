@@ -6,8 +6,8 @@ var exampleThree = new MultipleFunctionPromise();
 console.log("EXAMPLE ONE: BasicPromise:");
 exampleOne.start();
 
-// console.log("EXAMPLE ONE: MultipleAsyncPromise:");
+// console.log("EXAMPLE TWO: MultipleAsyncPromise:");
 // exampleTwo.start();
 
-// console.log("EXAMPLE ONE: MultipleFunctionPromise:");
+// console.log("EXAMPLE THREE: MultipleFunctionPromise:");
 // exampleThree.start();
